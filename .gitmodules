@@ -1,0 +1,9 @@
+[submodule "Device_Generator"]
+	path = Device_Generator
+	url = https://github.com/yangwei-lim/Device_Generator.git
+[submodule "Device_Placer"]
+	path = Device_Placer
+	url = https://github.com/yangwei-lim/Device_Placer.git
+[submodule "Device_Router"]
+	path = Device_Router
+	url = https://github.com/yangwei-lim/Device_Router.git
